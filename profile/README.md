@@ -25,5 +25,5 @@ const { ok, message } = await copyText("Hello World");
 
 | Resource                                      | Description                       |
 | --------------------------------------------- | --------------------------------- |
-| [Launch Playground]([https://console.pwafire.org](https://stackblitz.com/edit/pwafire?file=src%2Findex.ts)) | Test all PWA APIs in your browser |
+| [Launch Playground](https://stackblitz.com/edit/pwafire?file=src%2Findex.ts) | Test all PWA APIs in your browser |
 | [Launch Console](https://console.pwafire.org) | Test all PWA APIs in your browser |
